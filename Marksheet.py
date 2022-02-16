@@ -312,39 +312,39 @@ print("-------------------------------------------------------------------------
 
 
 print('Sr no  |  Subjects               | TA  | Total Marks  ',end=' || ' ) 
-print('TA Marks obtained |  Marks obtained | Total Marks obtained |Grade ')
+print('TA Marks obtained |  Marks obtained | Total Marks obtained  |Grade ')
 
 print("-------------------------------------------------------------------------------------------------------------------------------------")
 
 print('1      |  Physics                | 40  | 100          ',end=' || ')
-print(tp,"               | ", phy,"            |",mop,"                  |",G  )
+print(tp,"                | ", phy,"             |",mop,"                    |",G  )
 
 print('2      |  Maths                  | 40  | 100          ',end=' || ')
-print(tm1,"               | ", m1,"            |",mom1,"                  |",G1  )
+print(tm1,"                | ", m1,"             |",mom1,"                    |",G1  )
 
 print('3      |  Mechanics              | 40  | 100          ',end=' || ')
-print(tmech,"               | ", mech,"            |",momech,"                 |",G2  )
+print(tmech,"                | ", mech,"             |",momech,"                    |",G2  )
 
 print('4      |  Electronics            | 40  | 100          ',end=' || ')
-print(tbe,"               | ", be,"            |",mobe,"                  |",G3  )
+print(tbe,"                | ", be,"             |",mobe,"                    |",G3  )
 
 print('5      |  communication skills   | 40  | 100          ',end=' || ')
-print(tcs,"               | ", cs,"            |",mocs,"                  |",G4  )
+print(tcs,"                | ", cs,"             |",mocs,"                    |",G4  )
 
 print('6      |  ITCP                   | 40  | 100          ',end=' || ')
-print(titcp,"               | ", itcp,"            |",moitcp,"                  |",G5  )
+print(titcp,"                | ", itcp,"             |",moitcp,"                    |",G5  )
 
 print('7      |  ITCP Lab               | 50  | 100          ',end=' || ')
-print(titcpp,"               | ", itcpp,"            |",moitcpp,"                  |",G8  )
+print(titcpp,"                | ", itcpp,"             |",moitcpp,"                    |",G8  )
 
 print('8      |  Electronics lab        | 50  | 100          ',end=' || ')
-print(tbep,"               | ", bep,"            |",mobep,"                  |",G7  )
+print(tbep,"                | ", bep,"             |",mobep,"                    |",G7  )
 
 print('9      |  Mechanics lab          | 50  | 100          ',end=' || ')
-print(tmechp,"               | ", mechp,"             |",momechp,"                 |",G9  )
+print(tmechp,"                | ", mechp,"             |",momechp,"                    |",G9  )
 
 print('10     |  Physics Lab            | 50  | 100          ',end=' || ')
-print(tphyp,"               | ", phyp,"            |",mophyp,"                  |",G6  )
+print(tphyp,"                | ", phyp,"             |",mophyp,"                    |",G6  )
 
 print("--------------------------------------------------------------------------------------------------------------------------------------")
 
